@@ -1,4 +1,5 @@
 // #### Sets ####
+//First in Last Out
 
 function mySet(){
     var collection = [];
